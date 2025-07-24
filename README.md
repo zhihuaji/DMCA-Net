@@ -3,7 +3,7 @@ Our approach uses mmdetection, some modules and code refer to mmdetection(https:
 
 ## Datasets
 The additional annotation JSON file for the training set based on the Comparison Detector Datasets can be accessed via the following link:
-Link: https://pan.baidu.com/s/1DecibQnxkZ38kFxTDboF3A
+https://pan.baidu.com/s/1DecibQnxkZ38kFxTDboF3A
 Extraction code: 7et4
 
 ## Method
